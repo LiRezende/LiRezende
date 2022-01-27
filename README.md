@@ -1,8 +1,8 @@
 # Hello, folks! 👋
 
-I'm Ligia Rezende. I am a full stack developer freelance with strong experience in developing institutional websites, virtual stores and app's. I also have experience in agile project management.
+I'm Ligia Rezende. I am a full stack developer with strong experience in development of institutional websites, virtual stores and app's. I also have experience in agile project management.
 
-I am currently working on projects using JavaScript, Node, Vue and Wordpress. And my goals in 2021 are to go deeper into Java and Python.
+I am currently working on projects using Java and Spring Boot. But I also have experience in projects with Node, Vue and Wordpress. And my goals in 2022 are to dive deeper into React and Flutter.
 
 ## Technologies:
 
